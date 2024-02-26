@@ -1,16 +1,17 @@
-### Hi there 👋
+# Especialista em Redes e Desenvolvedor Curioso
 
-<!--
-**limatecnologia/limatecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📍 Ribeirão Preto - SP, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Especialista em Redes, desenvolvedor curioso e apaixonado por desafios tecnológicos e inovação.
+
+## Habilidades
+
+- 🌐 Especialista em Redes de Computadores
+- 🛠️ Equipamentos: Mikrotik, Huawei, Cisco, Juniper
+- 💻 Programação: Python, JavaScript
+- 📊 Monitoramento de Redes: Zabbix, Grafana
+
+## Experiência Profissional
+
+- Especialista em Redes, 12 anos de experiencia em ISP's.
